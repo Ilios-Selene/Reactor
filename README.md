@@ -1,11 +1,12 @@
-# Reactor
+# Reactor 
+## Reactor Computing Technologies 
 
 ## Adamant (computer), Ethereal (cellphone)
 
 ### Lineups
 - Rectitude
 - Constellation
-- Element
+- Elemental
 
 ### Development
 - Construct
